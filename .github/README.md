@@ -8,7 +8,7 @@ Atlas Packer turns selected layers into a compact, transparent RGBA texture atla
 
 The plugin combines non-destructive layer capture, rectangle-based packing, optional alpha-silhouette packing, rotation controls, uniform auto-scaling, edge extension, and a native **Pack In Place** workflow. Its goal is to reduce repetitive manual arrangement while keeping the source artwork editable.
 
-!(assets/AstraVortexAtlasPacker.webp)
+![Atlas Packer demonstration](assets/AstraVortexAtlasPacker.webp)
 
 ## Highlights
 
